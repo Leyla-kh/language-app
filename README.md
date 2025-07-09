@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Alt text](./public/images/readmePic.jpg)
 
-## Getting Started
 
-First, run the development server:
+# 👩‍🎓 Language Learning App
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A language learning web application inspired by Duolingo that helps users improve their language skills through interactive challenges and exercises.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👀 Live Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Check out the live app here: [https://language-app-delta.vercel.app/](https://language-app-delta.vercel.app/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 👍 Features
 
-## Learn More
+- User-friendly interface for learning new languages  
+- Interactive challenges and quizzes  
+- Subscription-based model for premium features  
+- Audio and visual learning aids  
+- Admin dashboard for managing content and users  
+- Secure authentication and role-based access control  
 
-To learn more about Next.js, take a look at the following resources:
+## 👩‍💻 Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js  
+- TypeScript
+- Clerk
+- Stripe API for subscription payments  
+- Drizzle ORM for database management  
+- PostgreSQL database  
+- Vercel for deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📧 Contact
+l.kheiri66@gmail.com
